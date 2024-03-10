@@ -1,0 +1,11 @@
+Q9 - What is Selectors in CSS
+Ans - Selector are used to select only those content which you want to style
+    - Selector are the part of CSS rule
+    - Selector select the HTML element according to ID,CLASS,TYPE,ATTRIBUTE,etc 
+
+There are several different types of Selectors in HTMl
+1-> CSS Element Selector
+2-> CSS Class Selector
+3-> CSS Universal Selector
+4-> CSS Group Selector
+5-> CSS Attribute Selector  

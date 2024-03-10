@@ -1,0 +1,35 @@
+Q7 - What is HTML list ?
+Ans - HTML list used to specify the list of information
+    - There are 3 different types of HTML  list 
+       Order list
+       Unorderd list
+       Discriptive list
+
+
+  Ordered List - starts with <ol> tag and ends with </ol>.
+                List item will be marked as Number by defaults
+                 <ol>
+                     <li> Coffee </li>
+                     <li> Tea </li>
+                     <li> Milk </li>
+                 </ol>           
+
+  Unorder List - starts with <ul> tag and end with </ul>
+                 List item will be marked as bullets by defaults
+                 <ul>
+                     <li> Coffee </li>
+                     <li> Tea </li>
+                     <li> Milk </li>
+                 </ul>
+                 
+ Discriptive List - start with <dl> tag it contains 3 tags 
+                  - <dl> (define description list)
+                  - <dt> (define discription term - name)
+                  - <dd> (define discription data)
+
+                  <dl>
+                    <dt> Coffee </dt>
+                    <dd> Cold or Hot </dd>
+                    <dt> Tea </dt>
+                    <dd> milk or without Milk </dd>
+                  </dl>                     
